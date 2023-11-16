@@ -1,0 +1,39 @@
+/* Header.css */
+
+.navbar-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+  }
+  
+  .website-logo {
+    width: 50px;
+  }
+  
+  .header-list-items {
+    list-style-type: none;
+    display: flex;
+  }
+  
+  .nav-link {
+    text-decoration: none;
+    color: white;
+    margin: 0 15px;
+    font-weight: bold;
+    font-size: 16px;
+  }
+  
+  .logout-button {
+    background-color: #ff4f4f;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  /* Add additional styling based on your design preferences */
+  
